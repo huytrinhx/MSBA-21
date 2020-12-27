@@ -15,16 +15,26 @@ The analysis has two main parts:
 
 ## Extra Resources
 Latent Dirichlet Allocation:
-https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext \n
+
+https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext
+
 https://hbsp.harvard.edu/tu/5b4b3414
+
 https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158
+
 https://medium.com/@pratikbarhate/latent-dirichlet-allocation-for-beginners-a-high-level-intuition-23f8a5cbad71
+
 Jensen-Shannon Distance:
+
 https://medium.com/datalab-log/measuring-the-statistical-similarity-between-two-samples-using-jensen-shannon-and-kullback-leibler-8d05af514b15
 
 ## References/Acknowledgement
 Last but not least, I couldn't pull this project off without the detailed instructions from these articles:
+
 https://kldavenport.com/topic-modeling-amazon-reviews/#querying-the-lda-model
+
 https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21
+
 https://www.kaggle.com/ktattan/lda-and-document-similarity
+
 Also Google Colab and their generosity with hosting the datasets
