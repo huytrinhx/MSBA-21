@@ -10,8 +10,8 @@ As the maker of the biggest E-commerce platform, can Amazon use it data to spot 
 The following analysis explores the feasibility of spotting useful reviews from trivial ones. It also attempt to suggest an approach to apply it at scale and discuss potential limitations.
 
 The analysis has two main parts:
-1. Base and Train: this notebook outlines step by step from downloading the dataset to experiment with different parameters of Latent Dirichlet Allocation (LDA), visually and individually inspect the results. The goal is to establish a performance baseline on a reasonable small dataset
-2. Extend and Validate: this notebook wrap all steps in a function so that it can be applied to different and bigger dataset to compare if performance changes as we extend the scale.
+1. Base and Train: this notebook outlines step by step from downloading the dataset to experiment with different parameters of Latent Dirichlet Allocation (LDA), visually and individually inspect the results. The goal is to establish a performance baseline on a reasonable small dataset and create building blocks of the analytics workflows.
+2. Extend and Validate: this notebook wrap all steps in a function so that it can be applied to different and bigger dataset or at different parameters to compare if performance changes as we extend the scale.
 
 ## Extra Resources
 Latent Dirichlet Allocation:
