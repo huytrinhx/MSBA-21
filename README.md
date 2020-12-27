@@ -15,7 +15,7 @@ The analysis has two main parts:
 
 ## Extra Resources
 Latent Dirichlet Allocation:
-https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext
+https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext \n
 https://hbsp.harvard.edu/tu/5b4b3414
 https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158
 https://medium.com/@pratikbarhate/latent-dirichlet-allocation-for-beginners-a-high-level-intuition-23f8a5cbad71
