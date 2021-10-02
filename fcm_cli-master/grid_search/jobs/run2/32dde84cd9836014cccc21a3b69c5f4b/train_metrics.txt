@@ -1,0 +1,2 @@
+total_loss,avg_sgns_loss,avg_dirichlet_loss,avg_pred_loss,avg_div_loss,train_auc,test_auc
+81.6509,13.6693,-250.4141,307.7578,10.6378,0.8555,0.5987
